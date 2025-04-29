@@ -18,8 +18,8 @@ Hi there! I'm Alessandro aka AkeruDev, a passionate developer with experience in
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&langs_count=6&theme=dark)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akerudev&layout=compact&langs_count=6&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akerudev&show_icons=true&theme=dark)
 
 ---
 
