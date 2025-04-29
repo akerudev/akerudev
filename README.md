@@ -25,9 +25,9 @@ Hi there! I'm Alessandro aka AkeruDev, a passionate developer with experience in
 
 ## 📫 Contact Me
 
-- 📧 Email: [your@email.com]
-- 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 Website / Blog: [link if available]
+- 📧 Email:
+- 💼 LinkedIn: 
+- 🌐 Website / Blog: 
 
 ---
 
