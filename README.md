@@ -9,16 +9,16 @@ Hi there! I'm Alessandro aka AkeruDev, a passionate developer with experience in
 
 ## 🧰 Languages & Tools
 
-- ⚙️ **C** (Embedded systems, algorithms, data structures)
-- 🐍 **Python** (Automation, web scraping, CLI tools)
-- 🐧 **Linux** (Bash scripting, system tools)
+- ⚙️ **C** 
+- 🐍 **Python** 
+- 🐧 **Linux** 
 - 🔧 **Git & GitHub**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akerudev&layout=compact&langs_count=6&theme=dark)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akerudev&show_icons=true&theme=dark)
 
 ---
