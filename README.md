@@ -9,11 +9,11 @@ Hi there! I'm Alessandro aka AkeruDev, a passionate developer with experience in
 
 ## 🧰 Languages & Tools
 
-- ⚙️ **C** 
-- 🐍 **Python** 
-- 🐧 **Linux** 
-- 🔧 **Git & GitHub**
-
+- ⚙️ **C**                - ☕ JAVA
+- 🐍 **Python**           - 🐘 PHP
+- 🐧 **Linux**            - 🗄️ SQL
+- 🔧 **Git & GitHub**     - 🌐 🧱 🎨 HTML / CSS
+- 📜, 🟨 JavaScript
 ---
 
 ## 📊 GitHub Stats
