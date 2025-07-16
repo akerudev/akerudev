@@ -12,7 +12,8 @@ Hi there! I'm Alessandro aka AkeruDev, a passionate developer with experience in
 - ⚙️ **C**                - ☕ JAVA
 - 🐍 **Python**           - 🐘 PHP
 - 🐧 **Linux**            - 🗄️ SQL
-- 🔧 **Git & GitHub**     - 🌐 🧱 🎨 HTML / CSS
+- 🔧 **Git & GitHub**
+- 🌐 🧱 🎨 HTML / CSS
 - 📜, 🟨 JavaScript
 ---
 
