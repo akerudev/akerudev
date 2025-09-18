@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi there! I'm Alessandro aka AkeruDev, a passionate developer with experience in **C** and **Python**. I enjoy working on low-level systems, algorithms, and building automation tools. I'm always eager to learn, build, and contribute to the open-source community. 🚀👨‍💻
+Hi 🚀👨‍💻
 
 ---
 
