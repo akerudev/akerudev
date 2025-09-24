@@ -17,13 +17,6 @@ Hi 🚀👨‍💻
 - 📜, 🟨 JavaScript
 ---
 
-## 📊 GitHub Stats
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=akerudev&show_icons=true&theme=dark)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email:
@@ -31,6 +24,4 @@ Hi 🚀👨‍💻
 - 🌐 Website / Blog: 
 
 ---
-
-🛠️ *“Code is like humor. When you have to explain it, it’s bad.”* — Cory House
 
