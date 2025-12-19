@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hi🚀👨‍💻
+Hi, Alessandro Passero 🚀👨‍💻
 
 ---
 
